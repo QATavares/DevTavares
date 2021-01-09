@@ -1,16 +1,32 @@
-### Hi there 👋
+# Rodrigo Tavares (**DevTavares**)
 
-<!--
-**DevTavares/DevTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- 🎂 24 Anos
+- 👨🏼‍🎓 Atualmente no 6º semestre de Ciência da Computação - UAM
+- 🧾Apaixonado por técnologia, futebol, games, filmes e séries de comédia.
 
-Here are some ideas to get you started:
+---
+## Interesses e Atuações
+- 💻 Atualmente estou trabalhando como estágiario de suporte técnico na Invenzi.
+- ⚙ Conte comigo para projetos Front-End.
+- 👨🏻‍💻 Front-End Jr.
+- 📚 Aprendendo mais sobre: HTML, CSS, JavaScript. 
+---
+## Onde me encontrar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devtavares/)](https://www.linkedin.com/in/devtavares/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/spfctavares/)](https://www.instagram.com/spfctavares/)
+
+---
+## Stats
+
+<p align = "center">
+  <a href="https://github.com/devtavares"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtavares&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/devtavares"><img src="https://github-readme-stats.vercel.app/api?username=devtavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="devtavares"/></a>
+</p> 
+
+
+
+
+
+
+
