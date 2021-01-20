@@ -3,7 +3,7 @@
 ### Sobre mim
 - 🎂 24 Anos
 - 👨🏼‍🎓 Atualmente no 6º semestre de Ciência da Computação - UAM
-- 🧾Apaixonado por técnologia, futebol, games, filmes e séries de comédia.
+- 🧾Apaixonado por tecnologia, futebol, games, filmes e séries de comédia.
 
 ---
 ## Interesses e Atuações
