@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ### Sobre mim
-- 🎂 24 Anos
+- 🎂 25 Anos
 - 👨🏼‍🎓 Atualmente no 6º semestre de Ciência da Computação - UAM
 - 🧾Apaixonado por tecnologia, futebol, games, filmes e séries de comédia.
 
