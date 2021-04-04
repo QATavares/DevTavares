@@ -7,7 +7,7 @@
 
 ---
 ## Interesses e Atuações
-- 💻 Atualmente estou trabalhando Quality Assurance na Inmetrics 💛.
+- 💻 Atualmente estou atuando como Quality Assurance na Inmetrics 💛.
 - ⚙ Conte comigo para projetos Front-End.
 - 👨🏻‍💻 Front-End Jr.
 - 📚 Aprendendo mais sobre: HTML, CSS, JavaScript. 
