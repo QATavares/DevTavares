@@ -2,16 +2,14 @@
 ### Olá, seja bem-vindx ao meu perfil, eu sou o Rodrigo
 
 ### Sobre mim
-- 🎂 25 Anos
-- 👨🏼‍🎓 Atualmente no 7º semestre de Ciência da Computação - UAM
+- 🎂 26 Anos
+- 👨🏼‍🎓 Atualmente no 8º semestre de Ciência da Computação - UAM
 - 🧾Apaixonado por tecnologia, futebol, games, filmes e séries de comédia.
 
 ---
 ## Interesses e Atuações
-- 💻 Atualmente estou atuando como Quality Assurance na Inmetrics 💛.
-- ⚙ Conte comigo para projetos Front-End.
-- 👨🏻‍💻 Front-End Jr.
-- 📚 Aprendendo mais sobre: HTML, CSS, JavaScript. 
+- 💻 Atualmente estou atuando como Quality Assurance na goFlux.
+- 📚 Aprendendo sobre: Automação de Testes. 
 ---
  <div>
   <a href="https://github.com/devtavares">
