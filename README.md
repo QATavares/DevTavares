@@ -9,7 +9,7 @@
 ---
 ## Interesses e Atuações
 - 💻 Atualmente estou atuando como Quality Assurance na goFlux.
-- 📚 Aprendendo sobre: Automação de Testes. 
+- 📚 Aprendendo sobre: Automação de Testes. (Node.js e Cypress) 
 ---
  <div>
   <a href="https://github.com/devtavares">
